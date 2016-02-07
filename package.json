@@ -1,0 +1,23 @@
+{
+  "name": "crossfit-emails",
+  "version": "1.0.0",
+  "description": "Click accept link when Crossfit sends a waitlist email",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgruppioni/crossfit-emails.git"
+  },
+  "author": "Casey Gruppioni <cgruppioni@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cgruppioni/crossfit-emails/issues"
+  },
+  "homepage": "https://github.com/cgruppioni/crossfit-emails#readme"
+}
